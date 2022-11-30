@@ -4,6 +4,9 @@ Python 3.9.13
 # CUDA Version
 11.7
 
+# How to get auth token
+https://huggingface.co/docs/hub/security-tokens
+
 # Installation Dependencies
 ## Pytorch
 ```
