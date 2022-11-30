@@ -5,3 +5,4 @@
 .idea
 backup_data/
 example/
+.env
