@@ -1,0 +1,7 @@
+/data/
+/image/
+/venv/
+/ui/.vscode/
+.idea
+backup_data/
+example/
